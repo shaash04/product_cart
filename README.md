@@ -1,4 +1,4 @@
-# Product Cart 🛒
+# Product Store 🛒
 
 A full stack MERN app to manage products — you can add, update, and delete products.
 
